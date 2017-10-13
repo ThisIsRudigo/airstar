@@ -1,0 +1,17 @@
+.container{
+	margin-top: 100px;
+	padding-top: 10px;
+}
+.container .form-control{
+	width: 50%;
+}
+.container p{
+	font-size: 30px;
+	padding-bottom: 50px;
+
+}
+body{
+	background-color: lightblue;
+}
+
+
